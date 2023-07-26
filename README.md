@@ -31,7 +31,7 @@ Update the authentication variables to corresponding dataset and token:
 const axiomDataset = "my-dataset" // Your Axiom dataset
 const axiomToken = "xapt-xxx" // Your Axiom API token
 ```
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/axiomhq/axiom-cloudflare-workers)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ContentBlocks/axiom-cloudflare-workers)
 
 Add triggers for the worker, e.g a route trigger:
   - Navigate to the worker and click on the `Triggers` tab.
